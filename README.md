@@ -7,6 +7,7 @@
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nechami-v&theme=flat&no-frame=true&margin-w=10)
 <br>
 **Languages and Technologies**
+  <br>
 <a href="https://git-scm.com/">
     <img src="https://github.com/user-attachments/assets/097b502d-1f1c-4d32-8b69-bc23a8f60ccd"  height="50">
 </a>
