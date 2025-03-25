@@ -4,7 +4,9 @@
 - 💬 Ask me about C#, Angular,and Entity Framework.
 - 📫 How to reach me: nech397@gmail.com
   <br>
-  **Languages and Technologies**
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nechami-v&theme=flat&no-frame=true&margin-w=10)
+<br>
+**Languages and Technologies**
 <a href="https://git-scm.com/">
     <img src="https://github.com/user-attachments/assets/097b502d-1f1c-4d32-8b69-bc23a8f60ccd"  height="50">
 </a>
