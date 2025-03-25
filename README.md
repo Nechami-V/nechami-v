@@ -79,7 +79,6 @@
 </a>
 <br>
 <strong>📊 GitHub Stats</strong>
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=nechami-v&show_icons=true&theme=light" width="400px">
 
 **🔥 Most Used Languages** <br>
