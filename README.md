@@ -3,30 +3,6 @@
 
 - 💬 Ask me about C#, Angular,and Entity Framework.
 - 📫 How to reach me: nech397@gmail.com
-<br>
-<strong>Languages and Tools:</strong>
-  <br>
- <a href="https://angular.io/">
-    <img src="https://github.com/user-attachments/assets/993a58ea-ff78-40c5-ac7c-5a4d685e6866" height="50" >
-</a>
-<a href="https://www.cprogramming.com/">
-    <img src="https://github.com/user-attachments/assets/a593c013-4b6c-4ea9-8cf9-1b8ab216923c" height="50">
-</a>
-<a href="https://www.w3schools.com/cs/">
-    <img src="https://github.com/user-attachments/assets/94084163-7e31-4fe2-95a0-3fe0600f5177"  height="50">
-</a>
-<a href="https://www.w3schools.com/css/">
-    <img src="https://github.com/user-attachments/assets/543f8b5e-70eb-4be5-9307-86e6af7c1c00"  height="50">
-</a>
-<a href="https://www.docker.com/">
-    <img src="https://github.com/user-attachments/assets/e90a6d61-4ad4-4f5d-ad89-4d07fc074d1d"  height="50">
-</a>
-<a href="https://dotnet.microsoft.com/en-us/">
-    <img src="https://github.com/user-attachments/assets/f286b075-5252-4933-989c-8f2e07d8a540" height="50">
-</a>
-<a href="https://expressjs.com/">
-    <img src="https://github.com/user-attachments/assets/13096b21-1455-40fb-9f9d-896e1b6e1bb8"  height="50">
-</a>
 
 <a href="https://git-scm.com/">
     <img src="https://github.com/user-attachments/assets/097b502d-1f1c-4d32-8b69-bc23a8f60ccd"  height="50">
