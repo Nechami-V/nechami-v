@@ -42,7 +42,7 @@
     <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png"  height="50">
 </a>
 <a href="https://www.postman.com/">
-    <img src="https://github.com/user-attachments/assets/89351cd3-6f85-4691-964b-59765fb4ea87"  height="50">
+    <img src="https://github.com/user-attachments/assets/89351cd3-6f85-4691-964b-59765fb4ea87"  height="50" margin="100">
 </a>
 <a href="https://www.python.org/">
     <img src="https://github.com/user-attachments/assets/64774761-c121-4340-a1dc-3ac3b437a992"  height="50">
@@ -56,3 +56,11 @@
 <a href="https://wordpress.com/">
     <img src="https://github.com/user-attachments/assets/34527edd-1138-4c07-a6b2-0337bbd63dce"  height="50">
 </a>
+<br>
+**📊 GitHub Stats** <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nechami-v&show_icons=true&theme=light)  
+
+**🔥 Most Used Languages** <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nechami-v&layout=compact&theme=light)  
+
+
