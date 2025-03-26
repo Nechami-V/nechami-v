@@ -77,6 +77,9 @@
 <a href="https://wordpress.com/">
     <img src="https://github.com/user-attachments/assets/34527edd-1138-4c07-a6b2-0337bbd63dce"  height="50">
 </a>
+<a href="https://github.com/openmainframeproject/cobol-programming-course">
+    <img src="https://github.com/user-attachments/assets/395fa014-5e01-40d1-9cb8-d5c093d04c67"  height="50">
+</a>
 <br>
 <br>
 <br>
