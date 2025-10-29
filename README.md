@@ -2,7 +2,7 @@
 **A talented and passionate software developer who loves the world of development. I enjoy learning new technologies and developing innovative solutions that make**
 <br>
 
-- 💬 Ask me about C#, Angular,and Entity Framework.
+- 💬 Ask me about Python, JavaScript, SQL, C#, Angular,and Entity Framework.
 - 📫 How to reach me: nech397@gmail.com
   <br>
   <br>
