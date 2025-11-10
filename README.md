@@ -1,16 +1,30 @@
 ## Hi there 👋 I am Nechama
-**A talented and passionate software developer who loves the world of development. I enjoy learning new technologies and developing innovative solutions that make**
+**A talented and passionate software developer who loves turning ideas into clean, efficient code.
+Always eager to learn new technologies and build innovative solutions that make a real impact.**
 <br>
 
 - 💬 Ask me about Python, JavaScript, SQL, C#, Angular,and Entity Framework.
 - 📫 How to reach me: nech397@gmail.com
   <br>
   <br>
+  
+🎁 **Currently working on**
+  <br>
+  - 💻 Full-Stack Development (Python, Angular, C#, SQL)  
+  - 🤖 AI & NLP Projects (FastAPI, OpenAI, LangChain)  
+  - 📊 BI & Data Visualization (Plotly, Power BI)  
+  - 🚀 Continuous learning & open-source contribution 
+    <br>
 
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nechami-v&theme=flat&no-frame=true&margin-w=10)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Nechami-V&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://komarev.com/ghpvc/?username=Nechami-V&label=Profile%20views&color=blue&style=flat)
 <br>
-<br>
-<br>
+### 🚀 Featured Projects
+- [BI Chatbot](https://github.com/Nechami-V/bi_chatbot) — Intelligent data-driven assistant for Hebrew business queries.
+- [Trivia Game](https://github.com/Nechami-V/trivia_game) — Cross-platform language learning game.
+
+
 <strong>Languages and Tools:</strong>
   <br>
   <br>
@@ -82,13 +96,17 @@
 </a>
 <br>
 <br>
-<br>
 <strong>📊 GitHub Stats</strong>
 <br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nechami-v&show_icons=true&theme=light" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nechami-V&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<br>
 
-**🔥 Most Used Languages** <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nechami-v&layout=compact&theme=light)  
+
+<strong>🔥 Most Used Languages<strong>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nechami-V&layout=compact&langs_count=8&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
